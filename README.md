@@ -22,7 +22,7 @@ pip install torch==1.5.1+cpu torchvision==0.6.1+cpu -f https://download.pytorch.
 or install the right PyTorch GPU version.
 
 ```
-pip install git+'https://github.com/otaheri/MANO'
+pip install git+'https://github.com/hongrui16/MANO'
 
 ```
 
